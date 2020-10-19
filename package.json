@@ -1,5 +1,5 @@
 {
-  "name": "@reveryui/timber",
+  "name": "@revery/timber",
   "version": "2.0.0",
   "description": "Opinionated logging framework based on @dbuenzli/logs",
   "license": "MIT",
