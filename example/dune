@@ -1,4 +1,3 @@
 (executable
-    (name Example)
-    (public_name example)
-    (libraries timber))
+ (name example)
+ (libraries timber))
